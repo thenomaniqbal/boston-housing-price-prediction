@@ -1,7 +1,7 @@
 # LinearRegression-HousePricePrediction
 Boston housing price prediction using Regression Algorithms
 Read all the implementation details in "Predicting Housing Prices using Regression Algorithms.pdf"
-<img src="https://raw.github.com/thenomaniqbal/LinearRegression-HousePricePrediction/blob/master/plots/predictions_vs_ytest.png">
+<img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/blob/master/plots/predictions_vs_ytest.png">
 
 <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/blob/master/plots/model_mse_scores.png">
 
