@@ -9,3 +9,4 @@ Read all the implementation details in "Predicting Housing Prices using Regressi
 
 <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/blob/master/plots/pairplot.png">
 
+<img src="https://raw.githubusercontent.com/thenomaniqbal/thenomaniqbal/master/wave.gif" width="30px">
