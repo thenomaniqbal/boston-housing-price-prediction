@@ -1,5 +1,5 @@
 # LinearRegression-HousePricePrediction
-Boston housing price prediction using Regression Algorithms
+Boston housing price prediction using Regression Algorithms  
 Data Overview:
 
 <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/ln.png" width="100%">
@@ -17,6 +17,7 @@ Data Overview:
 11. PTRATIO pupil-teacher ratio by town  
 12. Black 1000(Bk — 0.63)² where Bk is the proportion of blacks by town  
 13. LSTAT % lower status of the population  
+
 Read all the implementation details in PredictingHousingPricesusingRegressionAlgorithms.pdf  
 
 
