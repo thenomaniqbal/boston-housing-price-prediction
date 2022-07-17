@@ -35,9 +35,9 @@ def predict():
         std = np.load('std.npy')
         
         #creating a list to apply the Scaling using the mean and Standard Deviation we learned from our training model
-        new = [[(data[0][i] - mean[i])/std[i] for i in range(0,13)]]
+        #new = [[(data[0][i] - mean[i])/std[i] for i in range(0,13)]]
 
-        my_prediction = model.predict(new)
+        #my_prediction = model.predict(new)
 
 
         return render_template('result.html', prediction = int(my_prediction))
