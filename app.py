@@ -34,11 +34,8 @@ def predict():
         mean = np.load('mean.npy')
         std = np.load('std.npy')
         
-        #creating a list to apply the Scaling using the mean and Standard Deviation we learned from our training model
-        #new = [[(data[0][i] - mean[i])/std[i] for i in range(0,13)]]
-
-        #my_prediction = model.predict(new)
-
+        new = np.array([[CRIM,ZN, INDUS, CHAS, NOX, RM, AGE, DIS, RAD, TAX,PTRATIO, B, LSTAT]])
+        my_prediction = random_forest_regressor.predict(new)
 
         return render_template('result.html', prediction = int(my_prediction))
 
