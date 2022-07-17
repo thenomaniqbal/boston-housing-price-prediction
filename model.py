@@ -38,7 +38,3 @@ regressor = DecisionTreeRegressor()
 regressor.fit(train_transformed,train_target)
 
 pickle.dump(regressor,open('final_model.pickle','wb'))
-
-
-
-
