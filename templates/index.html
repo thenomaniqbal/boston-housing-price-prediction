@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>House Price Predictor</title>
+        <link rel="stylesheet" type="text/css" href="../static/styles.css">
+        <script src="https://kit.fontawesome.com/5f3f547070.js" crossorigin="anonymous"></script>
+        <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    </head>
+
+    <body>
+
+        <!-- Website Title -->
+    	<div class="container">
+            <h2 class='container-heading'><span class="heading_font">House Price Predictor</span></h2>
+            <div class='description'>
+    			<p>A Machine Learning Web App, Built with Flask, Deployed using Heroku.</p>
+    		</div>
+    	</div>
+
+        <!-- Text Area -->
+    	<div class="ml-container">
+    		<form action="/predict" method="POST">
+                <input class="form-input" type="text" name="Crime Rate" placeholder="Crime rate of the locality"><br>
+                <input class="form-input" type="text" name="Zone" placeholder="Zone"><br>
+                <input class="form-input" type="text" name="Industries" placeholder="Non-retail business acres per town"><br>
+                <input class="form-input" type="text" name="Charles River" placeholder="1 if Charles river bound tracts; 0 otherwise"><br>
+                <input class="form-input" type="text" name="Nitric Oxide Conc." placeholder="Nitric Oxide Concentration "><br>
+                <input class="form-input" type="text" name="Rooms" placeholder="Rooms per dwelling"><br>
+                <input class="form-input" type="text" name="Age" placeholder="Proportion of owner occupied units prior to 1940"><br>
+                <input class="form-input" type="text" name="Distance" placeholder="Weighted distance to five Dragon employment centres"><br>
+                <input class="form-input" type="text" name="Highways" placeholder="Index of accessibility of radial highways"><br>
+                <input class="form-input" type="text" name="Tax" placeholder="Full value of property-tax rate per $10,000"><br>
+                <input class="form-input" type="text" name="Teacher Ratio" placeholder="Pupil-teacher ratio by town"><br>
+                <input class="form-input" type="text" name="African-American" placeholder="Proportion of African-American by town"><br>
+                <input class="form-input" type="text" name="Lower Status" placeholder=" % of Lower status of population"><br>
+
+        		<input type="submit" class="my-cta-button" value="Predict">
+        	</form>
+    	</div>
+
+        <!-- Footer -->
+       <div class='footer'>
+            <p>&copy;project created by Noman Iqbal</p>
+            <p>thenomaniqbal@gmail.com</p>
+            <p>03088442522</p>
+       </div>
+
+    </body>
+</html>
