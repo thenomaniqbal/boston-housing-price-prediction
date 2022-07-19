@@ -1,21 +1,20 @@
 # Regression-HousePricePrediction
+
 <br />
 <p align="center">
-  <a href="https://github.com/thenomaniqbal/boston-housing-price-prediction">
+  <a href="https://github.com/thenomaniqbal/boston-housing-price-prediction/">
     <img src="images/profile.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Boston House Price Prediction</h3>
 
   <p align="center">
-    Boston house price prediction model deployed using heroku.
-
-    This project focuses on the end to end deployment of a machine learning model using flask and heroku.
+    In this i've tried to predict the prices of houses in Boston data set and deployed an end to end machine learning model using flask and heroku....
     <br />
     <a href="https://housepriceprediction404.herokuapp.com/"><strong>View Deployment On Heroku »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/thenomaniqbal/HousePricePrediction">View Codes</a>
+    <a href="https://github.com/thenomaniqbal/boston-housing-price-prediction/">View Codes</a>
     ·
     <a>Report Bug / Documentation / Paper -> thenomaniqbal@gmail.com</a>
     
@@ -24,7 +23,7 @@
 
 ## 📸 Demo
 <p align="center">
-  <a href="https://github.com/thenomaniqbal/HousePricePrediction/">
+  <a href="https://github.com/thenomaniqbal/boston-housing-price-prediction/">
     <img src="images/heroku.PNG" alt="Heroku-implementation">
   </a>
  </p>
@@ -45,7 +44,7 @@
 ## Project
 
 Boston housing price prediction using Regression Algorithms  
-<img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/ln.png" width="100%">
+<img src="https://raw.githubusercontent.com/thenomaniqbal/boston-housing-price-prediction/master/ln.png" width="100%">
 
 1. CRIM per capital crime rate by town  
 2. ZN proportion of residential land zoned for lots over 25,000 sq.ft.  
@@ -64,13 +63,13 @@ Boston housing price prediction using Regression Algorithms
 The visualization of the data set is implemented in a separate file: <a href="[https://github.com/thenomaniqbal/HousePricePrediction](https://github.com/thenomaniqbal/HousePricePrediction/blob/master/Visualization.ipynb)">Visualization</a> 
 
 <a href="https://github.com/thenomaniqbal/Diabetes-prediction/">
-  <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/predictions_vs_ytest.png" width="100%">
+  <img src="https://raw.githubusercontent.com/thenomaniqbal/boston-housing-price-prediction/master/plots/predictions_vs_ytest.png" width="100%">
 
-  <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/model_mse_scores.png" width="100%">
+  <img src="https://raw.githubusercontent.com/thenomaniqbal/boston-housing-price-prediction/master/plots/model_mse_scores.png" width="100%">
 
-  <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/feature_importance.png" width="100%">
+  <img src="https://raw.githubusercontent.com/thenomaniqbal/boston-housing-price-prediction/master/plots/feature_importance.png" width="100%">
 
-  <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/pairplot.png" width="100%">
+  <img src="https://raw.githubusercontent.com/thenomaniqbal/boston-housing-price-prediction/master/plots/pairplot.png" width="100%">
  </a>
 
 `thenomaniqbal`, `boston-housing-price-prediction`,  `thenomaniqbal@gmail.com`
@@ -134,7 +133,7 @@ Noman Iqbal
 
 thenomaniqbal@gmail.com
 
-Project Link: [https://github.com/thenomaniqbal/](https://github.com/thenomaniqbal/)
+Link: [https://github.com/thenomaniqbal/](https://github.com/thenomaniqbal/)
 
 
 ## References
