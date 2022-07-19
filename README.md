@@ -9,7 +9,7 @@
   <h3 align="center">Boston House Price Prediction</h3>
 
   <p align="center">
-    In this i've tried to predict the prices of houses in Boston data set and deployed an end to end machine learning model using flask and heroku....
+    In this project i've tried to predict the prices of houses in Boston data set and deployed an end to end machine learning model using flask and heroku....
     <br />
     <a href="https://housepriceprediction404.herokuapp.com/"><strong>View Deployment On Heroku »</strong></a>
     <br />
@@ -62,7 +62,7 @@ Boston housing price prediction using Regression Algorithms
 
 The visualization of the data set is implemented in a separate file: <a href="[https://github.com/thenomaniqbal/HousePricePrediction](https://github.com/thenomaniqbal/HousePricePrediction/blob/master/Visualization.ipynb)">Visualization</a> 
 
-<a href="https://github.com/thenomaniqbal/Diabetes-prediction/">
+<a href="https://github.com/thenomaniqbal/boston-housing-price-prediction/">
   <img src="https://raw.githubusercontent.com/thenomaniqbal/boston-housing-price-prediction/master/plots/predictions_vs_ytest.png" width="100%">
 
   <img src="https://raw.githubusercontent.com/thenomaniqbal/boston-housing-price-prediction/master/plots/model_mse_scores.png" width="100%">
