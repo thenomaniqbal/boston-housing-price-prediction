@@ -1,7 +1,49 @@
-# LinearRegression-HousePricePrediction
-Boston housing price prediction using Regression Algorithms  
-Data Overview:
+# Regression-HousePricePrediction
+<br />
+<p align="center">
+  <a href="https://github.com/thenomaniqbal/HousePricePrediction/">
+    <img src="[images/profile.png](https://raw.githubusercontent.com/thenomaniqbal/Diabetes-prediction/master/images/profile.png)" alt="Logo" width="80" height="80">
+  </a>
 
+  <h3 align="center">Boston House Price Prediction</h3>
+
+  <p align="center">
+  ## 📝 Description
+    Boston house price prediction model deployed using heroku.
+
+    This project focuses on the end to end deployment of a machine learning model using flask and heroku.
+    <br />
+    <a href="https://housepriceprediction404.herokuapp.com/"><strong>View Deployment On Heroku »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/thenomaniqbal/HousePricePrediction">View Codes</a>
+    ·
+    <a>Report Bug / Documentation / Paper -> thenomaniqbal@gmail.com</a>
+    
+  </p>
+</p>
+
+## 📸 Demo
+<p align="center">
+  <a href="https://github.com/thenomaniqbal/HousePricePrediction/">
+    <img src="[images/heroku.png](https://raw.githubusercontent.com/thenomaniqbal/HousePricePrediction/master/images/heroku.PNG)" alt="Logo" width="80" height="80">
+  </a>
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
+
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Contributers](#contributers)
+* [Contact](#contact)
+
+
+<!-- ABOUT THE PROJECT -->
+## Project
+
+Boston housing price prediction using Regression Algorithms  
 <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/ln.png" width="100%">
 
 1. CRIM per capital crime rate by town  
@@ -18,13 +60,82 @@ Data Overview:
 12. Black 1000(Bk — 0.63)² where Bk is the proportion of blacks by town  
 13. LSTAT % lower status of the population  
 
-Read all the implementation details in PredictingHousingPricesusingRegressionAlgorithms.pdf  
+The visualization of the data set is implemented in a separate file: <a href="[https://github.com/thenomaniqbal/HousePricePrediction](https://github.com/thenomaniqbal/HousePricePrediction/blob/master/Visualization.ipynb)">Visualization</a> 
+
+<a href="https://github.com/thenomaniqbal/Diabetes-prediction/">
+  <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/predictions_vs_ytest.png" width="100%">
+
+  <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/model_mse_scores.png" width="100%">
+
+  <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/feature_importance.png" width="100%">
+
+  <img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/pairplot.png" width="100%">
+ </a>
+
+`thenomaniqbal`, `boston-housing-price-prediction`,  `thenomaniqbal@gmail.com`
 
 
-<img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/predictions_vs_ytest.png" width="100%">
+### Built With
 
-<img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/model_mse_scores.png" width="100%">
+* [Python](python)
+* [Flask](flask)
+* [heroku](heroku)
 
-<img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/feature_importance.png" width="100%">
 
-<img src="https://raw.githubusercontent.com/thenomaniqbal/LinearRegression-HousePricePrediction/master/plots/pairplot.png" width="100%">
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+Clone the repo and extract it ....
+
+### Prerequisites
+
+This is the list of things you need to use the software and how to install them.
+* Python
+```
+Version python 3.8 <
+```
+* Pandas
+* sklearn
+* gunicorn
+* scipy
+* numpy
+* matplotlib
+* flask
+
+### Installation
+ 
+1. Clone the repo
+```
+git clone https://github.com/thenomaniqbal/boston-housing-price-prediction.git
+
+```
+2. Install Python Libraries
+```
+pip install pandas,sklearn,numpy,matplotlib,flask, gunicorn, scipy
+
+```
+
+3. Required Imports:
+```
+import numpy as np
+import pandas as pd
+import matplolib.pyplot as plt
+from flask import Flask,request, url_for, redirect, render_template
+import pickle
+```
+## Contributers
+
+Noman Iqbal
+
+<!-- CONTACT -->
+## Contact
+
+thenomaniqbal@gmail.com
+
+Project Link: [https://github.com/thenomaniqbal/](https://github.com/thenomaniqbal/)
+
+
+## References
+* Stackoverflow
+* flask
