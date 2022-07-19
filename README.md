@@ -44,6 +44,7 @@
 ## Project
 
 Boston housing price prediction using Regression Algorithms  
+
 <img src="https://raw.githubusercontent.com/thenomaniqbal/boston-housing-price-prediction/master/ln.png" width="100%">
 
 1. CRIM per capital crime rate by town  
