@@ -1,8 +1,8 @@
 # Regression-HousePricePrediction
 <br />
 <p align="center">
-  <a href="https://github.com/thenomaniqbal/HousePricePrediction/">
-    <img src="[images/profile.png](https://raw.githubusercontent.com/thenomaniqbal/Diabetes-prediction/master/images/profile.png)" alt="Logo" width="80" height="80">
+  <a href="https://github.com/thenomaniqbal/boston-housing-price-prediction">
+    <img src="images/profile.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Boston House Price Prediction</h3>
