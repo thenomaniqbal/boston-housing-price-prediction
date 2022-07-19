@@ -8,7 +8,6 @@
   <h3 align="center">Boston House Price Prediction</h3>
 
   <p align="center">
-  ## 📝 Description
     Boston house price prediction model deployed using heroku.
 
     This project focuses on the end to end deployment of a machine learning model using flask and heroku.
@@ -26,10 +25,12 @@
 ## 📸 Demo
 <p align="center">
   <a href="https://github.com/thenomaniqbal/HousePricePrediction/">
-    <img src="[images/heroku.png](https://raw.githubusercontent.com/thenomaniqbal/HousePricePrediction/master/images/heroku.PNG)" alt="Logo" width="80" height="80">
+    <img src="images/heroku.PNG" alt="Heroku-implementation">
   </a>
+ </p>
+ 
 <!-- TABLE OF CONTENTS -->
-## Table of Contents
+## 📝 Table of Contents
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
