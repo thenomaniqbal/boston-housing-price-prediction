@@ -113,7 +113,7 @@ git clone https://github.com/thenomaniqbal/boston-housing-price-prediction.git
 ```
 2. Install Python Libraries
 ```
-pip install pandas,sklearn,numpy,matplotlib,flask, gunicorn, scipy
+pip install pandas, sklearn, numpy, matplotlib, flask, gunicorn, scipy
 
 ```
 
