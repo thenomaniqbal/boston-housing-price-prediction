@@ -2,7 +2,7 @@
 
 <br />
 <p align="center">
-  <a href="https://github.com/thenomaniqbal/boston-housing-price-prediction/">
+  <a href="https://github.com/thenomaniqbal/">
     <img src="images/profile.png" alt="Logo" width="80" height="80">
   </a>
 
